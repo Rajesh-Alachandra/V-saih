@@ -19,7 +19,7 @@ window.onload = function () {
             selectedValue = document.getElementById("radoi-btn-1").value;
         }
 
-        const apiUrl = 'http://35.154.189.133:5000/registerintrest';
+        const apiUrl = 'https://api.v-siah.co.in/registerintrest';
 
         // Create an object with the form data
         const data = {

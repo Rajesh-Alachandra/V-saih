@@ -14,7 +14,7 @@ window.onload = function () {
         const address = document.getElementById('locationfield').value;
 
         // Define the API endpoint
-        const apiUrl = 'http://35.154.189.133:5000/registerpartner';
+        const apiUrl = 'https://api.v-siah.co.in/registerpartner';
 
         // Create an object with the form data
         const data = {
